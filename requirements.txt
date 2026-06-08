@@ -1,5 +1,6 @@
-Flask
-spotipy
-requests
-gunicorn
-python-dotenv
+flask==3.1.0
+spotipy==2.24.0
+requests==2.32.3
+redis==5.2.1
+gunicorn==23.0.0
+python-dotenv==1.0.1
